@@ -1,0 +1,44 @@
+echo "# my-resume-in-html" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sairedddytejasree/my-resume-in-html.git
+git push -u origin main{
+    margin : 0 ;
+    padding : 0 ;
+    box-sizing: border-box ;
+}
+body{
+    background-color:blanchedalmond
+    display: flex ;
+    justify-content: center ;
+    align-items; center;
+.full{
+    width: 50%;
+    max-width: 100px;
+    background-color: aquamarine;
+    margin: 0px;
+    display: grid;
+.left{
+    position: initial;
+    background-color: :-moz-only-whitespace;
+    padding: 20px;
+{
+    image, contact, qualification,career objective, skills.
+    margib bottom: 30px;
+}
+}
+.right{
+    position: initial;
+    background-color: blanchedalmond;
+    padding: 20px;
+}
+.h2{
+    background-color: aliceblue;
+}
+
+
+
+}
+}
