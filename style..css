@@ -1,0 +1,23 @@
+/* using in element sector*/
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    background-color: lightblue;
+    margin: 70px;
+}
+
+/* using id selector*/
+#input-content{
+    padding: 9px;
+    border: 6px white;
+    background-color: aqua;
+}
+/* using in class selector */
+/* change cursor {
+    cursor: pointer;
+}
+
+
